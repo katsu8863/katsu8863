@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi, I'm katsu 👋
 
-<!--
-**katsu8863/katsu8863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shopify developer | Theme customization / Operations support
 
-Here are some ideas to get you started:
+## Skills
+### Shopify
+- Liquid / CSS
+- Dawn / Horizon
+- Locksmith / 在庫ソートアプリ等 サードパーティアプリ選定・設定
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Environment
+- Shopify CLI
+- GA4
+- Git / GitHub
+
+## Projects
+個人でShopify構築・運用案件を受注し、
+要件定義から納品・保守契約まで一気通貫で対応しています。
+
+| # | 業種 | 内容 |
+|---|---|---|
+| 01 | ヘルスケア | 新規構築・会員制制御 |
+| 02 | 植物・園芸 | リニューアル・保守契約 |
+| 03 | 食品（醤油味噌） | 新規構築・長期運用（進行中） |
+| 04 | 食品（醤油味噌） | 新規構築・ブランディング（進行中） |
+
+## Now Learning
+- Shopify CLI / Shopify AI Toolkit
+- Admin API
+- Metafields
+
+## Portfolio
+[NotionのURLをここに記載]
