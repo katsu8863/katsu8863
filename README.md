@@ -6,7 +6,9 @@ Shopify developer | Theme customization / Operations support
 ### Shopify
 - Liquid / CSS
 - Dawn / Horizon
+- ストア移行（BASE → Shopify）
 - Locksmith / 在庫ソートアプリ等 サードパーティアプリ選定・設定
+- 保守・運用支援
 
 ### Tools & Environment
 - Shopify CLI
