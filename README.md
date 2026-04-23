@@ -33,4 +33,4 @@ Shopify developer | Theme customization / Operations support
 - Metafields
 
 ## Portfolio
-[NotionのURLをここに記載]
+https://www.notion.so/PORTFOLIO-01b628b934dc4a4e8c0b88306eb161d1
